@@ -1,0 +1,6 @@
+POST http://localhost:3001/newsletter
+Content-Type: application/json
+
+{
+    "email": "ifrahimansari11@gmail.com"
+}
